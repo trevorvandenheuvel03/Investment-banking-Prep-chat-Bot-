@@ -26,3 +26,10 @@ Stack
 * **Jinja2** template serving one HTML page  
 * **Vanilla JS** for socket logic, timer, and DOM updates  
 * **No database** — session state lives in memory per WebSocket connection
+
+
+fastapi
+uvicorn
+jinja2
+python-mimeparse
+openai
